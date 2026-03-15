@@ -1,6 +1,6 @@
 # roblox-tools
 > Esta em PT-BR, se quiser usar na sua lingua traduza.
-> Perdão os erros de gramatica basica, fiz essa ferramentas nas pressas no tempo
+> Perdão os erros de gramatica basica, fiz essa ferramentas nas pressas
 
 # Ferramentas
 
